@@ -1,0 +1,7 @@
+/* Tailwind CSS is being used, so minimal custom CSS is needed. */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+  max-width: 600px;
+}
